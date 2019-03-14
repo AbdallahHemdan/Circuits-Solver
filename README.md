@@ -17,5 +17,5 @@ to simulate simple AC circuits that contains :
   <li>inductors</li>
 </ol>
 <p align="center">
-  <img width="460" height="300" src="https://serving.photos.photobox.com/01795012c4c10f2abf5558df23db516883ffef0d36fe6156002cfcab32b3d866c0e931e3.jpg">
+  <img width="460" height="300" src="Solver.PNG">
 </p>
