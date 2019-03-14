@@ -16,6 +16,7 @@ to simulate simple AC circuits that contains :
   <li>capacitors</li>
   <li>inductors</li>
 </ol>
+
 <p align="center">
-  <img width="550" height="350" src="Solver.PNG">
+  <img width="600" height="400" src="Solver.PNG">
 </p>
